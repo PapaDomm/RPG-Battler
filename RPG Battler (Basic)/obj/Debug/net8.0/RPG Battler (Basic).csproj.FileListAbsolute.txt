@@ -1,0 +1,14 @@
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\bin\Debug\net8.0\RPG Battler (Basic).exe
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\bin\Debug\net8.0\RPG Battler (Basic).deps.json
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\bin\Debug\net8.0\RPG Battler (Basic).runtimeconfig.json
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\bin\Debug\net8.0\RPG Battler (Basic).dll
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\bin\Debug\net8.0\RPG Battler (Basic).pdb
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).AssemblyInfoInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).AssemblyInfo.cs
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).dll
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\refint\RPG Battler (Basic).dll
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).pdb
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\RPG Battler (Basic).genruntimeconfig.cache
+C:\Users\Dominic\source\GrandCircus\repos\RPG Battler (Basic)\RPG Battler (Basic)\obj\Debug\net8.0\ref\RPG Battler (Basic).dll
